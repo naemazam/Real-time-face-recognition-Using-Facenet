@@ -7,6 +7,8 @@
 ## Description 📰 
 A facial recognition system is a technology capable of identifying or verifying a person from a digital image or a video frame from a video source. There are multiples methods in which facial recognition systems work, but in general, they work by comparing selected facial features from given image with faces within a database.
 
+![](https://i.pinimg.com/originals/7c/d5/3d/7cd53d36d121d839da9600ca055b01db.gif)
+
 ## Functionalities added 🕵️‍♂️
 1. Using face align functionality from dlib to predict effectively while live streaming.
 
