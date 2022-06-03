@@ -1,13 +1,13 @@
-# Real time face recognition Using Facenet 🧔 🔍
+# Real time face recognition Using Facenet 🧔 🤖 🔍
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.https://github.com/R4j4n/Face-recognition-Using-Facenet-On-Tensorflow-2.X)
-[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Facial-Recognition-using-Facenet/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Naem-Azam-brightgreen.svg?colorB=0000)](https://naemazam.github.io/Researcher/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.https://github.com/naemazam/Real-time-face-recognition-Using-Facenet)
+[![](https://img.shields.io/badge/Naem-Azam-brightgreen.svg?colorB=0000)](https://naemazam.github.io/Researcher/)
 
-## Description 🕵️‍♂️
+## Description 📰 
 A facial recognition system is a technology capable of identifying or verifying a person from a digital image or a video frame from a video source. There are multiples methods in which facial recognition systems work, but in general, they work by comparing selected facial features from given image with faces within a database.
 
-## Functionalities added 🧟
+## Functionalities added 🕵️‍♂️
 1. Using face align functionality from dlib to predict effectively while live streaming.
 
 
@@ -39,7 +39,7 @@ If you face any problem, kindly raise an issue
         
 ```
 
-# Dependencies
+# Dependencies 💾
 This code was working properly on tensroflow 2.3.0.
 - Tensorflow 2.X
 - numpy
@@ -54,7 +54,7 @@ You can install Conda for python which resolves all the dependencies for machine
 `pip install requirements.txt`
 
 
-## Menual dependencies install with pip 
+## Menual dependencies install with pip 👨‍🔬
 
 Install python 3.x and Conda 
 
@@ -115,7 +115,7 @@ Install python 3.x and Conda
 
 
 
-## SetUp
+## SetUp 🖥️ 
 0. Download [facenet_keras_weights.h5](https://github.com/D2KLab/FaceRec/blob/master/model/facenet_keras_weights.h5) and put it accoding to our file Organization
 1. Make a directory of your name inside the **Faces** folder and upload your 2-3 pictures of you.
 
@@ -125,7 +125,7 @@ Install python 3.x and Conda
 python train_v2.py
 ```
 
-## Real time face recognition
+## Real time face recognition 🧔 🤖 🔍
 
 Run this for real time Face recognition, it will open your camera and start detection 
 
