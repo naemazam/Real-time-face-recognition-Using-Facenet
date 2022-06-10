@@ -137,7 +137,7 @@ python detect.py
 
 ## Results 📊
 
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/Face-Rec.gif">
+![](./result.gif)
 
 ## References 🔱
  
