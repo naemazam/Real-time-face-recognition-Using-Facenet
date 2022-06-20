@@ -1,6 +1,10 @@
 # Real time face recognition Using Facenet 🧔 🤖 🔍
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.https://github.com/naemazam/Real-time-face-recognition-Using-Facenet)
 [![](https://img.shields.io/badge/Naem-Azam-brightgreen.svg?colorB=0000)](https://naemazam.github.io/Researcher/)
 
