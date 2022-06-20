@@ -33,18 +33,16 @@ If you face any problem, kindly raise an issue
 ```shell
 ├── Real-time-face-recognition-Using-Facenet (Current Directory)
     ├── encodings
-    ├── Faces
-    |   ├── Azam
-    |   └── winnie
-    |   └── JackieChan
-    | 
     ├── architecture.py
     ├── detect.py
     ├── facenet_keras_weights.h5
     ├── train_v2.py
     ├── requirements.txt
+    ├── Faces
+        ├── Azam
+        └── winnie
+        └── JackieChan
     └── readme.md
-        
 ```
 
 # Dependencies 💾
@@ -149,7 +147,7 @@ python detect.py
 
 Constant Face Location and Acknowledgment
 By Naem Azam 
-DOI:10.13140/RG.2.2.35497.26721
+DOI:10.13140/RG.2.2.35497.2672
 
 ## References 🔱
  
